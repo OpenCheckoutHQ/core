@@ -33,3 +33,36 @@ Open Source Headless Commerce with GraphQL. Coming soon.
 📦 **Inventory Support**: Track, manage, and optimize your stock levels with integrated inventory management features.
 
 🔍 **MeiliSearch Support**: Integrate lightning-fast, typo-tolerant search experiences with MeiliSearch capabilities.
+
+# Roadmap
+
+Our project roadmap serves as a strategic guide to the key features and improvements we plan to tackle. Contributions and feedback from the community are always welcome to shape the future of this platform.
+
+## Core Features
+
+- [X] GraphQL API integration
+- [X] MeiliSearch support for enhanced search capabilities
+- [X] Modular architecture design
+- [ ] Developer documentation portal launch
+
+## Advanced Features
+
+- [ ] Event Bus mechanism for real-time updates
+- [ ] Multi-warehouse support for inventory management
+- [ ] Region-based customization and targeting
+- [ ] Multi-language and currency support
+
+## Community & Engagement
+
+- [ ] Community forum for discussions and support
+- [ ] Partner with third-party services for integrations
+- [ ] Launch user feedback and suggestion portal
+
+## Expansion & Scalability
+
+- [ ] Integration with more payment gateways
+- [ ] Support for digital products and downloads
+- [ ] Analytics and reporting tools integration
+- [ ] Optimizations for scalability and high-performance
+
+We'll periodically revisit and revise our roadmap based on the evolution of the platform, technological trends, and feedback from our community.
