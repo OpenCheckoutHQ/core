@@ -1,5 +1,12 @@
-# OpenCheckout Core
-Open Source Headless Commerce with GraphQL. Coming soon.
+<h1 align="center">
+  OpenCheckout Core
+</h1>
+<p align="center">
+  Open Source Headless Commerce with GraphQL. Coming soon.
+</p>
+<h4 align="center">
+  <a href="https://getopencheckout.com">Website</a>
+</h4>
 
 
 ## Features
